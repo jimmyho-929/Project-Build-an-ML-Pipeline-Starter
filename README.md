@@ -1,4 +1,5 @@
-Link to public project: https://wandb.ai/jimmyho-929-western-governors-university/nyc_airbnb?nw=nwuserjimmyho929
+Link to Wandb public project: https://wandb.ai/jimmyho-929-western-governors-university/nyc_airbnb?nw=nwuserjimmyho929
+Linnk to github: https://github.com/jimmyho-929/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
